@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "patches": [
     {
       "name": "Custom accent color",
@@ -47,6 +47,7 @@
             "Purple": "#8E44EF",
             "Teal": "#00A3A3",
             "Green": "#2EAD4B",
+            "Yellow": "#FFC700",
             "Pink": "#E8337A",
             "Red": "#E53935"
           }
@@ -108,9 +109,9 @@
             "Purple": "#8E44EF",
             "Teal": "#00A3A3",
             "Green": "#2EAD4B",
+            "Yellow": "#FFC700",
             "Pink": "#E8337A",
-            "Red": "#E53935",
-            "Yellow": "#FFC700"
+            "Red": "#E53935"
           }
         },
         {
@@ -126,9 +127,9 @@
             "Purple": "#8E44EF",
             "Teal": "#00A3A3",
             "Green": "#2EAD4B",
+            "Yellow": "#FFC700",
             "Pink": "#E8337A",
-            "Red": "#E53935",
-            "Yellow": "#FFC700"
+            "Red": "#E53935"
           }
         }
       ]

@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/SeveriT/morphe-patches/compare/v1.0.0...v1.0.1) (2026-11-07)
+
+### 🐛 Bug Fixes
+
+* Offer the same color presets, including yellow, in every color option ([dcdbc6e](https://github.com/SeveriT/morphe-patches/commit/dcdbc6e1d06d2e87c543a1ca77eb7bc6cd4aa474))
+
 ## 1.0.0 (2026-11-07)
 
 ### ✨ New Features
