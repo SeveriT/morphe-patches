@@ -3,11 +3,11 @@ group = "app.severit"
 patches {
     about {
         name = "SeveriT Patches"
-        description = "Personal Morphe patches (Strava theming)"
-        source = "git@github.com:SeveriT/strava-morphe-patches.git"
+        description = "Personal Morphe patches"
+        source = "git@github.com:SeveriT/morphe-patches.git"
         author = "SeveriT"
         contact = "https://github.com/SeveriT"
-        website = "https://github.com/SeveriT/strava-morphe-patches"
+        website = "https://github.com/SeveriT/morphe-patches"
         license = "GPLv3"
     }
 }

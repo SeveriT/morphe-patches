@@ -13,16 +13,16 @@ Personal Morphe patches.
 
 ### How to use these patches
 
-Click the button below, or manually add this repo url to Morphe Manager: https://github.com/SeveriT/strava-morphe-patches
+Click the button below, or manually add this repo url to Morphe Manager: https://github.com/SeveriT/morphe-patches
 
-<a href="https://morphe.software/add-source?github=SeveriT/strava-morphe-patches">
+<a href="https://morphe.software/add-source?github=SeveriT/morphe-patches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/SeveriT/strava-morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.0.0](https://github.com/SeveriT/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Strava&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
