@@ -58,14 +58,8 @@ val customAccentColorPatch = patch(
     val accentColor by stringOption(
         key = "accentColor",
         default = "#2F7CF6",
-        values = mapOf(
-            "Blue" to "#2F7CF6",
-            "Purple" to "#8E44EF",
-            "Teal" to "#00A3A3",
-            "Green" to "#2EAD4B",
-            "Pink" to "#E8337A",
-            "Red" to "#E53935",
-        ),
+        // Strava orange as an accent would change nothing.
+        values = COLOR_PRESETS - STRAVA_ORANGE_PRESET,
         title = "Accent color",
         description = "Hex color (#RRGGBB) that replaces Strava's orange. Lighter and darker " +
             "shades are generated from it.",

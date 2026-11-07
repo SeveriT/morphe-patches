@@ -23,17 +23,6 @@ private const val SECONDARY = "map_polyline_secondary"
 private const val TERTIARY = "map_polyline_tertiary"
 private const val RECORD = "map_polyline_record"
 
-private val COLOR_PRESETS = mapOf(
-    "Strava orange" to "#FC5200",
-    "Blue" to "#2F7CF6",
-    "Purple" to "#8E44EF",
-    "Teal" to "#00A3A3",
-    "Green" to "#2EAD4B",
-    "Pink" to "#E8337A",
-    "Red" to "#E53935",
-    "Yellow" to "#FFC700",
-)
-
 @Suppress("unused")
 val customRouteColorPatch = patch(
     name = "Custom map route color",
